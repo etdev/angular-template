@@ -54,6 +54,6 @@
     "admin-config": "^0.12.0",
     "ng-admin": "marmelab/ng-admin",
     "node-sass": "^3.3.2",
-    "sass-loader": "^2.0.1",
+    "sass-loader": "^2.0.1"
   }
 }
